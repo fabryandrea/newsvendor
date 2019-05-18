@@ -16,6 +16,7 @@ The problem is as follows: In 2002, Reebok had the sole rights to sell NFL footb
 Demand for the jerseys was normally distributed with a mean of 32,000 and a standard deviation of 11,000.
 
 **3. The Model**
+
 This is a classic case of the newsvendor problem. Newsvendor models are characterized by probabilistic demand and single period planning horizons.
 
 **4. Conclusion**
